@@ -1,5 +1,5 @@
-## Muography Forward Modelling Toolkit
 ## geol-vector-muon-opacities
+## Muography Forward Modelling Toolkit
 
 This is a small supplementary toolkit to accompany the paper "Muographic corrections and methods for geological interpretation with a single muon detector source".
 The purpose is to be enable recreating the model cases for figures 5-8, and encourage exploration of the geological cases and the proposed methods of filtering and analysing the model results.
